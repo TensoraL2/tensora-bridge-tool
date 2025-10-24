@@ -25,7 +25,7 @@ A simple, secure command-line tool to bridge BNB from BSC Mainnet to Tensora L2.
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/your-repo/bridge-to-tensora.sh
+curl -O https://raw.githubusercontent.com/TensoraL2/tensora-bridge-tool/main/bridge-to-tensora.sh
 
 # Make it executable
 chmod +x bridge-to-tensora.sh
