@@ -31,13 +31,6 @@ curl -O https://raw.githubusercontent.com/your-repo/bridge-to-tensora.sh
 chmod +x bridge-to-tensora.sh
 ```
 
-Or if already on the Tensora server:
-
-```bash
-cd /opt/tensora
-./bridge-to-tensora.sh
-```
-
 ---
 
 ## Usage
