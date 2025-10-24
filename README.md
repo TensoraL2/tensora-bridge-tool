@@ -106,12 +106,12 @@ The script accepts **both formats**:
 
 ✅ **With 0x prefix:**
 ```
-0x70eddd9d4d27390afa17932d629aad6a96bf0bb7142cbe05827b0aa7757d3143
+0xxxxxxxxxxxx
 ```
 
 ✅ **Without 0x prefix:**
 ```
-70eddd9d4d27390afa17932d629aad6a96bf0bb7142cbe05827b0aa7757d3143
+xxxxxx
 ```
 
 The script will automatically add "0x" if missing.
